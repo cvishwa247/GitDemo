@@ -28,6 +28,7 @@ public static int reverseNo(int number) {
 	}
 
 	System.out.println(s);
+	System.out.println(s);
 	
 }
 }

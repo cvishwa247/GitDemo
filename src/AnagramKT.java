@@ -18,6 +18,8 @@ public class AnagramKT {
 		System.out.println(d);
 		
 		System.out.println(Arrays.equals(c, d));
+		System.out.println(Arrays.equals(c, d));
+		System.out.println(Arrays.equals(c, d));
 
 	}
 
